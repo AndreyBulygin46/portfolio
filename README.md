@@ -8,4 +8,4 @@
 
 Мои сертификаты.
 
-[Нетология Основы Python](https://github.com/AndreyBulygin46/portfolio/blob/main/Сертификаты%20и%20резюме/Нетология%20Основы%20Python.pdf)
+![Нетология Основы Python](https://github.com/AndreyBulygin46/portfolio/blob/main/Сертификаты%20и%20резюме/Нетология%20Основы%20Python.pdf)
