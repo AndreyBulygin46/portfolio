@@ -1,0 +1,12 @@
+/plan.txt
+/my_music_app/venv
+/my_music_app/.mypy_cache
+/my_music_app/dist
+/my_music_app/new_music
+/my_music_app/build/my_music_app
+/GuessWord/venv
+/GuessWord/.gitignore
+/GuessWord/.mypy_cache
+/game_in_cities/venv
+/game_in_cities/.mypy_cache
+/game_in_cities/test.py
